@@ -1,0 +1,26 @@
+$color-blanco: #ffffff;
+$color-negro: #000000;
+$color-secundario: #294c60;
+$color-primario: #073f6e;
+$gris: #343434;
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.row {
+    --bs-gutter-x: 0px !important;
+}
+
+body {
+    font-size: 16px;
+    
+    @import 'loader';
+    @import 'header';
+    @import 'cards';
+    @import 'carrito';
+    @import '_checkout';
+    @import 'footer';
+}

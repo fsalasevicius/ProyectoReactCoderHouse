@@ -1,0 +1,14 @@
+.carrito {
+    .margin-form{
+        border-radius: 20px;
+        @media (min-width:768px){
+            margin-top: 10%;
+        }
+    }
+    .subtotal-precio{
+        color: red;
+    }
+ 
+
+    
+}
