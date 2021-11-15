@@ -10,6 +10,9 @@ In the project you will find:
 - Shopping Cart
 - Contact information
 
+##Demo
+![image](https://github.com/fsalasevicius/ProyectoReactCoderHouse/blob/main/src/img/react.gif)
+ 
 ## Starting 🚀
 
 You can download or clone the project. To start use:
